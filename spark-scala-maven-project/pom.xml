@@ -16,7 +16,7 @@
 		<maven.compiler.target>1.6</maven.compiler.target>
 		<encoding>UTF-8</encoding>
 		<scala.version>2.10.4</scala.version>
-		<spark.version>2.1.0</spark.version>
+		<spark.version>2.2.3</spark.version>
 		<spark.test>2.2.3</spark.test>
 		<junit.version>4.8.1</junit.version>
 	</properties>
