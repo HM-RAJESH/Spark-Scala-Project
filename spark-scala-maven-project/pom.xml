@@ -18,7 +18,7 @@
 		<scala.version>2.10.4</scala.version>
 		<spark.version>2.1.0</spark.version>
 		<spark.test>2.2.3</spark.test>
-		<junit.version>4.8.1</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 
   <dependencies>
